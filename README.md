@@ -1,6 +1,7 @@
-Reactjs üzerinde mobx ve firebase ile basit uygulama 
+Reactjs üzerinde mobx ve firebase üzerine ile basit uygulama 
 
-# First installation
-
+# Installation
    - npm i 
+
+# Run Project
    - npm start
