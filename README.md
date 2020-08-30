@@ -1,4 +1,4 @@
-Reactjs üzerinde mobx ve firebase üzerine ile basit uygulama 
+Reactjs üzerinde mobx ve firebase üzerine eklenmiş data ile basit uygulama 
 
 # Installation
    - npm i 
